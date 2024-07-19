@@ -18,6 +18,8 @@ Additionally, Animated Plots offers troubleshooting advice and best practices fo
 
 > Alex: "*This is one of my smartest custom GPT ideas.*"
 
+> Alex: "*Does animating data create more efficient communication of data?*"
+
 #
 ### Related Links
 
