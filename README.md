@@ -15,6 +15,10 @@ Additionally, Animated Plots offers troubleshooting advice and best practices fo
 ![Animated Plots Example](https://github.com/user-attachments/assets/4703df81-ab11-4e87-85f2-3ea73ca0ff70)
 
 #
+
+> Alex: "*This is one of my smartest custom GPT ideas.*"
+
+#
 ### Related Links
 
 [Python Simulator](https://chat.openai.com/g/g-NLUSBfccY-python-simulator)
