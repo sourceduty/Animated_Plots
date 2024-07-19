@@ -1,4 +1,4 @@
-![Animated Plots](https://github.com/user-attachments/assets/584302d9-2bc8-4100-a1bc-eabdd481116f)
+![Animated Plots](https://github.com/user-attachments/assets/062f42be-e0a8-4b6d-8855-9cc704daa576)
 
 > Create animated chart and graph GIF images using the Python environment.
 
